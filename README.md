@@ -12,5 +12,9 @@ You can switch between the Scenes with <kbd>&larr;</kbd> or <kbd>&rarr;</kbd>.
 ## Scene 1
 A complete room.
 
+![Scene 1](dnkvw5.jpg)
+
 ## Scene 2
 A very simple demonstration.
+
+![Scene 4](dnkvw4.jpg)
